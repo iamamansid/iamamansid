@@ -30,4 +30,5 @@ Production-style URL shortener — Spring Boot, Kafka click analytics, Redis cac
 ## 📫 Get in Touch
 
 - ✉️ [aman.siddiqui114@gmail.com](mailto:aman.siddiqui114@gmail.com)
+- 🌐 [nakhlavi.me](https://nakhlavi.me) — portfolio
 - 💼 [github.com/iamamansid](https://github.com/iamamansid)
